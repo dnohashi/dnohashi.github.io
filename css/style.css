@@ -468,6 +468,12 @@ nav.transparent {
   }
 } */
 
+@media only screen and (max-width: 768px) {
+  .about-content {
+    flex-direction: column;
+  }
+}
+
 
 @media only screen and (min-width: 1024px) {
   .notebook-container {
