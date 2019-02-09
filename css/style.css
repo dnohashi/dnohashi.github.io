@@ -472,6 +472,10 @@ nav.transparent {
   .about-content {
     flex-direction: column;
   }
+
+  .container {
+    background-attachment: none;
+  }
 }
 
 
