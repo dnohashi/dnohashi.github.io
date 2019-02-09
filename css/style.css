@@ -474,7 +474,9 @@ nav.transparent {
   }
 
   .container {
-    background-attachment: local;
+    background:  url("../img/header-sunset.png") right no-repeat;
+    background-size: cover;
+    background-attachment: initial;
   }
 }
 
